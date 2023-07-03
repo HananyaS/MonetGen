@@ -6,6 +6,7 @@ The generators had different architectures: the first one implemented a Cycle-GA
 The **train.ipynb** and **test.ipynb** notebooks have run on Google Colab servers, in the following links:
 
 **Train:** https://colab.research.google.com/drive/13_I02A-BIT8JfR3z-6M-raSck8h3KDdY#scrollTo=WbuGkYij8ZxY
+
 **Test:** https://colab.research.google.com/drive/1C41elAlXWJhqwJZVkapsWXe0GFScSVbc#scrollTo=EQKnuuorAZle
 
 The final report is also attached.
